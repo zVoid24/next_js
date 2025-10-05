@@ -1,3 +1,4 @@
+import type { JSX } from "react";
 import { HeaderSection } from "../../sections/header-section";
 import { ServiceHeroSection } from "../../sections/service-hero-section";
 import { ServiceDescriptionSection } from "../../sections/service-description-section";

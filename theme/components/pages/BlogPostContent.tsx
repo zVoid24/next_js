@@ -1,3 +1,4 @@
+import type { JSX } from "react";
 import { HeaderSection } from "../sections/header-section";
 import { BlogArticleSection } from "../sections/blog-article-section";
 import { BlogTeaserSection } from "../sections/blog-teaser-section";
